@@ -1,0 +1,6 @@
+{
+  "name": "AdGenius AI — Your AI Marketing Team",
+  "description": "Turn any product description into complete high-converting ad campaigns, video storyboards, posters, and voiceovers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
